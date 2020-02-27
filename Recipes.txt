@@ -5,6 +5,9 @@ welcome to Madhuri's Kitchen.
 Kheer
 Pasta
 chicken fry
+Beans
+Pizza
 
 
 Thank You
+done my changes
